@@ -41,7 +41,9 @@ function(val) {
 };
 
 //ES6
-(val) => val + 15;
+let opdracht = (val) => val + 15;
+opdracht(15);
+
 ```
 4. Meerdere parameters, enkelvoudig statement
 ```
