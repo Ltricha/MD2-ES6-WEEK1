@@ -7,7 +7,7 @@ let producten = [
     "wortelen",
     "komkommer",
     "melk",
-    "yogurt",
+    "yoghurt",
     "kwark",
     "eieren",
     "kaas",
@@ -40,7 +40,4 @@ let diversen = [];
  */
 
 // Maak slim gebruik van array functies
-
-
-
 
